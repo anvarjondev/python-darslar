@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 17 14:21:13 2022
 
-@author: User
+@author: Anvarjon O'ktamov
 """
 
 mehmonlar = ['Ali', 'Vali', 'Zumrad', 'Zuhra', 'Biloldin']
