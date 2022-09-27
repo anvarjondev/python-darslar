@@ -63,6 +63,8 @@ Created on Fri Sep 16 18:35:24 2022
 #rint("Men tarxiy shaxslardan " ,t_shaxslar[0], 'zamonaviy shaxslardan esa\
  #    ' , z_shaxslar[2], 'bilan uchrashib gaplashishni isteman')
   # son = input("soni kiriting")   
+a = 2
+print("a=", a)
 
 
 
