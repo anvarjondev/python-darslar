@@ -44,7 +44,7 @@ Created on Fri Sep 16 18:35:24 2022
 #print('Nima gaplarn' , ismlar[1], ' ishlab yuribsizmi?')
 #print(ismlar[2].title(), ' ayraportlar tinchmi, samalyotlarni kuzatyapsizmi')
 
-sonlar = [-5, 0, 5, 99, -43, 0.21, 59, -7, 13, -0.88]
+# sonlar = [-5, 0, 5, 99, -43, 0.21, 59, -7, 13, -0.88]
 #sonlar[3] = sonlar[3] + 1
 #del sonlar[6]
 #sonlar.insert(-1, 999)
@@ -62,7 +62,7 @@ sonlar = [-5, 0, 5, 99, -43, 0.21, 59, -7, 13, -0.88]
 #z_shaxslar = ["Ilon Mask", 'Bill Gates', 'Zokir Naik']
 #rint("Men tarxiy shaxslardan " ,t_shaxslar[0], 'zamonaviy shaxslardan esa\
  #    ' , z_shaxslar[2], 'bilan uchrashib gaplashishni isteman')
-  son = input("soni kiriting")   
+  # son = input("soni kiriting")   
 
 
 
